@@ -46,7 +46,7 @@ transformers==4.57.6
 # --- Procesamiento de PDFs ---
 # pypdf 5.x acumulaba ~30 CVEs de DoS (loops infinitos / agotamiento de
 # RAM con PDFs malformados). Todos corregidos en 6.13.3.
-pypdf==6.13.3
+pypdf==6.14.2
 
 # --- Utilidades ---
 python-multipart==0.0.31
